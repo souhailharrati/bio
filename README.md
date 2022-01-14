@@ -1,6 +1,3 @@
-# About Me
-
-I am a Full Stack Developer, I like to learn new technologies and OSS believer.
 
 ## &#x1f4c8; My GitHub Stats
 
